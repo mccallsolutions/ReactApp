@@ -1,4 +1,4 @@
-This is a test repo!
+This is a test repo.
 
 # Sample 02 - Calling an External API
 
